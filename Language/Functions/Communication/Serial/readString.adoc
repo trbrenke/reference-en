@@ -34,6 +34,10 @@ title: Serial.readString()
 === Returns
 A `String` read from the serial buffer
 
+
+=== Example
+String data = _Serial_.readString();
+
 --
 // OVERVIEW SECTION ENDS
 
